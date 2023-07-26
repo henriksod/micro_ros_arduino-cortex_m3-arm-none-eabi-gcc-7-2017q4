@@ -1,7 +1,7 @@
 ![banner](.images/banner-dark-theme.png#gh-dark-mode-only)
 ![banner](.images/banner-light-theme.png#gh-light-mode-only)
 
-# Fork of micro-ROS for Arduino
+# Fork of micro-ROS for Arduino v2.0.7-humble
 
 Specifically for cortex-m3 pre-compiled with arm-none-eabi-gcc-7-2017q4.
 
